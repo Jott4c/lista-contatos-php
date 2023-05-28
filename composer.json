@@ -1,0 +1,19 @@
+{
+  "name": "jott4c/contact-api",
+  "type": "project",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Jott4c\\ContactApi\\": "app/"
+    }
+  },
+  "authors": [
+    {
+      "name": "jott4c",
+      "email": "jrcba123@gmail.com"
+    }
+  ],
+  "require": {
+    "nikic/fast-route": "^1.3"
+  }
+}
